@@ -1,3 +1,5 @@
+## This project is not maintained.
+
 select2entity-bundle
 ====================
 
